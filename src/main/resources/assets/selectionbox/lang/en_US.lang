@@ -1,0 +1,33 @@
+config.menu.name.selection_box=Selection Box
+config.menu.comment.selection_box=Configure gradient outlines for selected blocks and entity hitboxes.
+selection_box.hotkeys.category.generic_hotkeys=Selection Box Hotkeys
+
+config.name.selectionBox.openConfig=Open Selection Box Config
+config.comment.selectionBox.openConfig=Open this mod's ManyLib config screen.
+
+config.name.selectionBox.enableBlockOutline=Enable Block Outline
+config.comment.selectionBox.enableBlockOutline=Render colored block selection outlines.
+
+config.name.selectionBox.enableEntityOutline=Enable Entity Outline
+config.comment.selectionBox.enableEntityOutline=Render colored F3+B entity outlines.
+
+config.name.selectionBox.gradientStartColor=Gradient Start Color
+config.comment.selectionBox.gradientStartColor=Start color of the animated gradient.
+
+config.name.selectionBox.gradientEndColor=Gradient End Color
+config.comment.selectionBox.gradientEndColor=End color of the animated gradient.
+
+config.name.selectionBox.gradientMode=Gradient Mode
+config.comment.selectionBox.gradientMode=Interpolation mode between start and end colors.
+config.enum.selectionBox.gradientMode.RGB=RGB
+config.enum.selectionBox.gradientMode.HSV=HSV
+
+config.name.selectionBox.cycleSeconds=Cycle Seconds
+config.comment.selectionBox.cycleSeconds=Duration of one full gradient cycle.
+
+config.name.selectionBox.lineWidth=Line Width
+config.comment.selectionBox.lineWidth=Outline line thickness.
+
+config.name.selectionBox.alpha=Alpha
+config.comment.selectionBox.alpha=Outline opacity.
+

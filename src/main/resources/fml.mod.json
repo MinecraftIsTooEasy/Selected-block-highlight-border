@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "selection_box",
+  "version": "${version}",
+  "name": "Selected block highlight border",
+  "description": "可选方块和实体碰撞框的可配置梯度轮廓。",
+  "authors": [
+    "M"
+  ],
+  "contact": {
+    "homepage": "https://minecraftistooeasy.github.io/",
+    "sources": "https://github.com/MinecraftIsTooEasy/SelectionBox"
+  },
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.m.selectionbox.SelectionBoxMod"
+    ],
+    "modmenu": [
+      "com.m.selectionbox.compat.ModMenuImpl"
+    ]
+  },
+  "mixins": [
+    "selectionbox.mixins.json"
+  ],
+  "depends": {
+    "fishmodloader": ">=3.4.0",
+    "minecraft": "1.6.4-mite",
+    "java": ">=17",
+    "many-lib": ">=2.3.0"
+  }
+}

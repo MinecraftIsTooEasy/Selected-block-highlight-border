@@ -1,0 +1,33 @@
+config.menu.name.selection_box=方块选中框与实体碰撞箱
+config.menu.comment.selection_box=配置方块选中框与实体碰撞箱的渐变描边效果。
+selection_box.hotkeys.category.generic_hotkeys=选中框热键
+
+config.name.selectionBox.openConfig=打开选中框配置
+config.comment.selectionBox.openConfig=打开本模组的 ManyLib 配置界面。
+
+config.name.selectionBox.enableBlockOutline=启用方块选中框
+config.comment.selectionBox.enableBlockOutline=是否渲染彩色方块选中框描边。
+
+config.name.selectionBox.enableEntityOutline=启用实体碰撞箱描边
+config.comment.selectionBox.enableEntityOutline=是否渲染 F3+B 的彩色实体碰撞箱描边。
+
+config.name.selectionBox.gradientStartColor=渐变起始颜色
+config.comment.selectionBox.gradientStartColor=动画渐变的起始颜色。
+
+config.name.selectionBox.gradientEndColor=渐变结束颜色
+config.comment.selectionBox.gradientEndColor=动画渐变的结束颜色。
+
+config.name.selectionBox.gradientMode=渐变插值模式
+config.comment.selectionBox.gradientMode=起始颜色与结束颜色之间的插值方式。
+config.enum.selectionBox.gradientMode.RGB=RGB
+config.enum.selectionBox.gradientMode.HSV=HSV
+
+config.name.selectionBox.cycleSeconds=循环周期（秒）
+config.comment.selectionBox.cycleSeconds=完整播放一次渐变动画所需时间。
+
+config.name.selectionBox.lineWidth=线宽
+config.comment.selectionBox.lineWidth=描边线条宽度。
+
+config.name.selectionBox.alpha=透明度
+config.comment.selectionBox.alpha=描边透明度。
+

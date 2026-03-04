@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"minVersion": "0.8.5",
+	"package": "com.m.selectionbox.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"target": "DEFAULT",
+	"client": [
+		"RenderGlobalMixin",
+		"RenderManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
