@@ -1,4 +1,4 @@
-config.menu.name.selection_box=方块选中框与实体碰撞箱
+config.menu.name.selection_box=Selection Box
 config.menu.comment.selection_box=配置方块选中框与实体碰撞箱的渐变描边效果。
 selection_box.hotkeys.category.generic_hotkeys=选中框热键
 

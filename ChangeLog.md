@@ -41,9 +41,8 @@
 
 ### 依赖
 - Minecraft 1.6.4-MITE
-- FishModLoader 3.4.0+
-- ManyLib 2.3.0+
-- ModMenu 10.1.1
+- FishModLoader 3.4.2
+- ManyLib 2.0.1+
 
 ---
 

@@ -25,9 +25,9 @@
     "selectionbox.mixins.json"
   ],
   "depends": {
-    "fishmodloader": ">=3.4.0",
+    "fishmodloader": ">=3.4.2",
     "minecraft": "1.6.4-mite",
     "java": ">=17",
-    "many-lib": ">=2.3.0"
+    "many-lib": "*"
   }
 }
