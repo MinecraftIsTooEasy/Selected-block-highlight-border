@@ -35,7 +35,7 @@ dependencies {
     fml "com.github.MinecraftIsTooEasy:FishModLoader:3.4.2"
     implementation "com.github.MinecraftIsTooEasy:FishModLoader:3.4.2"
 
-    implementation "com.github.MinecraftIsTooEasy:ModernMITE:3.7.1"
+    implementation "com.github.MinecraftIsTooEasy:ModernMite:3.7.2"
     implementation "com.github.MinecraftIsTooEasy:ManyLib:2.3.0"
     implementation "com.github.MinecraftIsTooEasy:ModMenu:10.1.1"
 }

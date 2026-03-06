@@ -36,7 +36,7 @@ public final class SelectionBoxConfig extends SimpleConfigs {
     public static final ConfigDouble CYCLE_SECONDS =
             new ConfigDouble("selectionBox.cycleSeconds", 3.0D, 0.2D, 12.0D, true, "Time for one full color cycle.");
     public static final ConfigDouble LINE_WIDTH =
-            new ConfigDouble("selectionBox.lineWidth", 2.0D, 1.0D, 6.0D, true, "Outline line width.");
+            new ConfigDouble("selectionBox.lineWidth", 3.0D, 2.0D, 6.0D, true, "Outline line width.");
     public static final ConfigInteger ALPHA =
             new ConfigInteger("selectionBox.alpha", 204, 16, 255, true, "Outline alpha (opacity).");
 
@@ -63,4 +63,3 @@ public final class SelectionBoxConfig extends SimpleConfigs {
         return INSTANCE;
     }
 }
-

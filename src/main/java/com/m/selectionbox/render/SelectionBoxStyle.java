@@ -19,7 +19,7 @@ public final class SelectionBoxStyle {
     }
 
     public static float getLineWidth() {
-        return (float) Math.max(1.0D, SelectionBoxConfig.LINE_WIDTH.getDoubleValue());
+        return (float) Math.max(2.0D, SelectionBoxConfig.LINE_WIDTH.getDoubleValue());
     }
 
     public static float getAnimationProgress() {
@@ -112,4 +112,3 @@ public final class SelectionBoxStyle {
         return value;
     }
 }
-
